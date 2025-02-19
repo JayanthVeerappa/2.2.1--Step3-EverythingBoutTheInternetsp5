@@ -9,8 +9,9 @@ Up until this point, people were still calling those messages electronic mail. S
 Email is a technological innovation which was made to enable users to send mails to other people with very little send time. One of the most common companies that use email include Google, Yahoo, Outlook, and even Apple.
 
 ### Why was it made?	
-It was an easier way to communicate others online. Not only that but the cost of sending and receiving mail significantly decreased. Ray Tomlinson, the creator, created it wiht the main purpose of making MAILBOX more effective. 
+It was an easier way to communicate others online. Not only that but the cost of sending and receiving mail significantly decreased. Ray Tomlinson, the creator, created it with the main purpose of making MAILBOX more effective. 
 ### When was it made?
-Email was invented in 1971 by Ray Tomlinson by creating a system for ARPANET
-How is it used?
-Email is used for many different purposes such has contacting and communiting. 
+Email was invented in 1971 by Ray Tomlinson by creating a system for ARPANET.
+
+### How is it used?
+Email is used for many different purposes such has contacting and communicating. 
