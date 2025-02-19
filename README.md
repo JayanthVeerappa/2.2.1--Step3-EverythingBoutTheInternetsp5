@@ -14,4 +14,4 @@ It was an easier way to communicate others online. Not only that but the cost of
 Email was invented in 1971 by Ray Tomlinson by creating a system for ARPANET.
 
 ### How is it used?
-Email is used for many different purposes such has contacting and communicating. 
+Email is used for personal and professional communication, allowing people to send messages, share files, and stay connected. Businesses use it for official conversations, marketing, and customer support, while schools rely on it for assignments and announcements. It also plays a key role in security, serving as a method for verification, password resets, and authentication. Additionally, many online services send notifications and alerts through email to keep users informed.
